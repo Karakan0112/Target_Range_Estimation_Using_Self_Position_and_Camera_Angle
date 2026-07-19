@@ -1,0 +1,17 @@
+# MATLAB editor auto-saves
+*.asv
+
+# Simulink cache files and code generation folders
+*.slxc
+slprj/
+
+# Compiled MEX files (binary executables)
+*.mex*
+
+# Temporary MS Office files (e.g., when editing reports)
+~$*
+
+# System files
+Thumbs.db
+Desktop.ini
+.DS_Store
